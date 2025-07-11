@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning ML, MySQL, Cloud, Python <br>
 - 👯 I’m looking to collaborate on Machine Learning Projects<br>
 - 🤝 I’m looking for help with MySQL, EDA, Visualization<br>
-- 👨‍💻 All of my projects are available at [https://charmilaravuri.netlify.app/](https://charmilaravuri.netlify.app/)<br>
+- 👨‍💻 All of my projects are available at [https://charmilaravuri.netlify.app/]<br>
 - 💬 Ask me about MySQL, ML<br>
 - 📫 How to reach me padmaravuri8499@gmail.com
 </p>
